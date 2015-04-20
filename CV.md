@@ -19,7 +19,7 @@ This is the common theme running through all my endeavours and I believe it is m
 
 - Makers Academy was all about using the tools, techniques and technologies we learnt to solve problems both individually, in pairs and in groups.
 - Poker demanded my full attention and ability to solve problems on the spot, quickly and effectively under pressure.
-- Starting a business required me to always be creative in coming up with solutions to the endless stream of problems. One example is offering a student halls free advertising space in exchange for free distribution of our student publication.
+- Starting a business required me to always be creative in coming up with solutions to the endless stream of problems. One example is offering student halls free advertising space in exchange for free distribution of our student publication.
 - When tutoring I found ways to engage students by creating personalised lessons they found fun and interesting.
 
 ## Education
