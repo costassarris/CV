@@ -39,7 +39,7 @@ This is the common theme running through all my endeavours and I believe it is m
 
 ## Experience
 
-**Mad Grads Ltd - 2013 to 2014**  
+**Mad Grads Ltd - 2012 to 2014**  
 *Co-Founder & Director*
 
 **Private Maths Tutor (A-level & GCSE) - 2011 to 2013**  
