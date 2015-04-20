@@ -37,6 +37,11 @@ This is the common theme running through all my endeavours and I believe it is m
 - Mechanical Engineering
 - Lower second-class honours
 
+#### The Latymer School - 2001 to 2008
+
+- A-level: Maths(A), Physics(B), Economics(B)
+- GCSE: 10 passes at grades A* to B (6 A*'s, 3 A's and 1 B)
+
 ## Experience
 
 **Mad Grads Ltd - 2012 to 2014**  
