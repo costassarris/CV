@@ -1,6 +1,6 @@
 ## Costas Sarris
 
-Poker playing entrepreneur turned coder with a passion for business, technology and the internet. I've founded a start-up, been a professional poker player for three years and a private maths tutor in between. Now I have finished a web development bootcamp at Makers Academy and I want to use my skills to work with people who love what they do and come together to create awesome products and services.
+Poker playing entrepreneur turned coder with a passion for business, technology and the internet. I've founded a [start-up](http://info4837.wix.com/mad-grads), been a professional [poker player](http://s24.postimg.org/oes0wedmd/Screen_Shot_2015_04_20_at_17_09_45.png) for three years and a private maths tutor in between. Now I have finished a web development bootcamp at Makers Academy and I want to use my skills to work with people who love what they do and come together to create awesome products and services.
 
 ## Skills
 
@@ -18,8 +18,8 @@ Confident in front-end and back-end test driven web development with Ruby, Rails
 This is the common theme running through all my endeavours and I believe it is my greatest strength.
 
 - Makers Academy was all about using the tools, techniques and technologies we learnt to solve problems both individually, in pairs and in groups.
-- Poker demanded my full attention and ability to solve problems on the spot, quickly and effectively under pressure. ([My results](http://s24.postimg.org/oes0wedmd/Screen_Shot_2015_04_20_at_17_09_45.png))
-- Starting a [business](http://info4837.wix.com/mad-grads) required me to always be creative in coming up with solutions to the endless stream of problems.
+- Poker demanded my full attention and ability to solve problems on the spot, quickly and effectively under pressure.
+- Starting a business required me to always be creative in coming up with solutions to the endless stream of problems.
 
 ## Education
 
