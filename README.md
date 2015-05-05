@@ -9,7 +9,7 @@ Poker playing entrepreneur turned coder with a passion for business, technology 
 Confident in front-end and back-end test driven web development with Ruby, Rails, JavaScript, jQuery, AngularJS, Node.js, RSpec, Jasmine, Capybara and Cucumber.
 
 - [Feast Beast](https://github.com/StreetFeast/street-feast) (Ruby on Rails, Javascript & jQuery)
-- [NapStop](https://github.com/NapStop/NapStop) (Javascipt, jQuery & AngularJS)
+- [NapStop](https://github.com/costassarris/NapStop) (Javascipt, jQuery & AngularJS)
 - [Bowling Scorecard](https://github.com/costassarris/bowling-challenge) (JavaScript & jQuery)
 - [To-Do List](https://github.com/costassarris/todo_challenge) (JavaScript & AngularJS)
 
